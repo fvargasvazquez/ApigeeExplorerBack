@@ -89,23 +89,31 @@ namespace ApigeeExplorer.ApiV2.Services
                 if (serverName.Contains(searchTerm, StringComparison.OrdinalIgnoreCase))
                 {
                     var associatedApis = new List<string>();
-                    if (!string.IsNullOrEmpty(server.ApiAsociado))
-                    {
-                        associatedApis = server.ApiAsociado.Split(',').Select(api => api.Trim()).ToList();
-                    }
-
-                    // Extract environments if this is an enriched target server
                     var environments = new List<string>();
+                    Dictionary<string, List<string>>? apisByEnvironment = null;
+
                     if (server is EnrichedTargetServer enrichedServer)
                     {
                         environments = enrichedServer.Environments;
+                        apisByEnvironment = enrichedServer.ApisByEnvironment;
+                        
+                        // For backward compatibility, still populate the flat list
+                        associatedApis = enrichedServer.ApisByEnvironment.Values
+                            .SelectMany(apis => apis)
+                            .Distinct()
+                            .ToList();
+                    }
+                    else if (!string.IsNullOrEmpty(server.ApiAsociado))
+                    {
+                        associatedApis = server.ApiAsociado.Split(',').Select(api => api.Trim()).ToList();
                     }
 
                     var details = new SearchResultDetails
                     {
                         Host = server.Host ?? "N/A",
                         Environments = environments,
-                        AssociatedApis = associatedApis
+                        AssociatedApis = associatedApis,
+                        ApisByEnvironment = apisByEnvironment
                     };
 
                     results.Add(new SearchResult

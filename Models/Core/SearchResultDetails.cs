@@ -35,6 +35,7 @@ namespace ApigeeExplorer.ApiV2.Models.Core
         // Target Server Details
         public string? Host { get; set; }
         public List<string>? AssociatedApis { get; set; }
+        public Dictionary<string, List<string>>? ApisByEnvironment { get; set; }
 
         // Keystore Details
         public string? ExpirationDate { get; set; }

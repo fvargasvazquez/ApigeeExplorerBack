@@ -11,5 +11,10 @@ namespace ApigeeExplorer.ApiV2.Models.Entities
         /// List of environments where this target server is deployed
         /// </summary>
         public List<string> Environments { get; set; } = new();
+
+        /// <summary>
+        /// APIs associated with this target server grouped by environment
+        /// </summary>
+        public Dictionary<string, List<string>> ApisByEnvironment { get; set; } = new();
     }
 }

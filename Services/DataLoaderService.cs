@@ -159,6 +159,18 @@ namespace ApigeeExplorer.ApiV2.Services
                                 TargetActivo = nestedData[env][serverName].TargetActivo,
                                 Environments = new List<string> { env }
                             };
+
+                            // Parse and store APIs by environment
+                            if (!string.IsNullOrEmpty(nestedData[env][serverName].ApiAsociado))
+                            {
+                                var apis = nestedData[env][serverName].ApiAsociado
+                                    .Split(',')
+                                    .Select(api => api.Trim())
+                                    .Where(api => !string.IsNullOrEmpty(api))
+                                    .ToList();
+                                enrichedServer.ApisByEnvironment[env] = apis;
+                            }
+
                             flatServers[serverName] = enrichedServer;
                         }
                         else
@@ -169,6 +181,17 @@ namespace ApigeeExplorer.ApiV2.Services
                                 if (!existingEnriched.Environments.Contains(env))
                                 {
                                     existingEnriched.Environments.Add(env);
+                                }
+
+                                // Add APIs for this environment
+                                if (!string.IsNullOrEmpty(nestedData[env][serverName].ApiAsociado))
+                                {
+                                    var apis = nestedData[env][serverName].ApiAsociado
+                                        .Split(',')
+                                        .Select(api => api.Trim())
+                                        .Where(api => !string.IsNullOrEmpty(api))
+                                        .ToList();
+                                    existingEnriched.ApisByEnvironment[env] = apis;
                                 }
                             }
                         }

@@ -1,0 +1,631 @@
+{
+    "prod-ext": {
+        "operaciones-baz-centro-soluciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-baz-centro-soluciones", 
+            "nombre alias": "operaciones-baz-centro-soluciones"
+        }, 
+        "red-propia-caja-azteca-express": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-red-propia-caja-azteca-express", 
+            "nombre alias": "red-propia-caja-azteca-express"
+        }, 
+        "telemetria-total-protect": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-telemetria-total-protect", 
+            "nombre alias": "telemetria-total-protect"
+        }, 
+        "botapigee": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-botapigee", 
+            "nombre alias": "botapigee"
+        }, 
+        "mi-negocio-baz-pagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-mi-negocio-baz-pagos", 
+            "nombre alias": "mi-negocio-baz-pagos"
+        }, 
+        "ekt-municipio": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-municipio", 
+            "nombre alias": "ekt-municipio"
+        }, 
+        "backoffice-capital-humano-sap": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-capital-humano-sap", 
+            "nombre alias": "backoffice-capital-humano-sap"
+        }, 
+        "elektra-comercio-bof": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-bof", 
+            "nombre alias": "elektra-comercio-bof"
+        }, 
+        "elektra-comercio-seguridad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-seguridad", 
+            "nombre alias": "elektra-comercio-seguridad"
+        }, 
+        "ekt-dig-comercio-venta-empleado": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-dig-comercio-venta-empleado", 
+            "nombre alias": "ekt-dig-comercio-venta-empleado"
+        }, 
+        "ekt-chambeador": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-chambeador", 
+            "nombre alias": "ekt-chambeador"
+        }, 
+        "socios-comerciales-unnax": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-socios-comerciales-unnax", 
+            "nombre alias": "socios-comerciales-unnax"
+        }, 
+        "operaciones-geografia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-geografia", 
+            "nombre alias": "operaciones-geografia"
+        }, 
+        "seguros-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-seguros-azteca", 
+            "nombre alias": "seguros-azteca"
+        }, 
+        "prod-ext": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-prod-ext", 
+            "nombre alias": "prod-ext"
+        }, 
+        "elektra-guatemala": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-guatemala", 
+            "nombre alias": "elektra-guatemala"
+        }, 
+        "ekt-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-digital", 
+            "nombre alias": "ekt-digital"
+        }, 
+        "elektra-ecommerce-app": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-ecommerce-app", 
+            "nombre alias": "elektra-ecommerce-app"
+        }, 
+        "elektra-conectividad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad", 
+            "nombre alias": "elektra-conectividad"
+        }, 
+        "banca-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "bdapis-keystore", 
+            "nombre alias": "banca-digital"
+        }, 
+        "dialogus-honestel": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-dialogus-honestel", 
+            "nombre alias": "dialogus-honestel"
+        }, 
+        "sistemas-lam-cobranza-mapas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-lam-cobranza-mapas", 
+            "nombre alias": "sistemas-lam-cobranza-mapas"
+        }, 
+        "pagos-sa-red-acep-negocios-exp-cliente": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sa-red-acep-negocios-exp-cliente", 
+            "nombre alias": "pagos-sa-red-acep-negocios-exp-cliente"
+        }, 
+        "backoffice-administracion-sap": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-administracion-sap", 
+            "nombre alias": "backoffice-administracion-sap"
+        }, 
+        "pagos-sa-red-aceptacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sa-red-aceptacion", 
+            "nombre alias": "pagos-sa-red-aceptacion"
+        }, 
+        "backoffice-mercadotecnia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-mercadotecnia", 
+            "nombre alias": "backoffice-mercadotecnia"
+        }, 
+        "baz-entregas-lam-red-sum": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-baz-entregas-lam-red-sum", 
+            "nombre alias": "baz-entregas-lam-red-sum"
+        }, 
+        "beneficios-socio": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-beneficios-socio", 
+            "nombre alias": "beneficios-socio"
+        }, 
+        "pagos-switch-comercial": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-switch-comercial", 
+            "nombre alias": "pagos-switch-comercial"
+        }, 
+        "backoffice-capital-humano-orcs": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-capital-humano-orcs", 
+            "nombre alias": "backoffice-capital-humano-orcs"
+        }, 
+        "operaciones-baz-sago": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-baz-sago", 
+            "nombre alias": "operaciones-baz-sago"
+        }, 
+        "tesoreria-casinos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-tesoreria-casinos", 
+            "nombre alias": "tesoreria-casinos"
+        }, 
+        "ekt-atv": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-atv", 
+            "nombre alias": "ekt-atv"
+        }, 
+        "pagos-multimonedas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-multimonedas", 
+            "nombre alias": "pagos-multimonedas"
+        }, 
+        "divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-divisas", 
+            "nombre alias": "divisas"
+        }, 
+        "afore-transformacion-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-transformacion-digital", 
+            "nombre alias": "afore-transformacion-digital"
+        }, 
+        "pagos-elektra-vales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-elektra-vales", 
+            "nombre alias": "pagos-elektra-vales"
+        }, 
+        "compensaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-compensaciones", 
+            "nombre alias": "compensaciones"
+        }, 
+        "auditoria-actas-administrativas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-auditoria-actas-administrativas", 
+            "nombre alias": "auditoria-actas-administrativas"
+        }, 
+        "auditoria-telemetria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-auditoria-telemetria", 
+            "nombre alias": "auditoria-telemetria"
+        }, 
+        "carretera-transporte": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-carretera-transporte", 
+            "nombre alias": "carretera-transporte"
+        }, 
+        "proyecto-coinpro": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-proyecto-coinpro", 
+            "nombre alias": "proyecto-coinpro"
+        }, 
+        "cyc-comercio-inteligencia-datos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-comercio-inteligencia-datos", 
+            "nombre alias": "cyc-comercio-inteligencia-datos"
+        }, 
+        "sistemas-lam-gtm-ecommerce": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-lam-gtm-ecommerce", 
+            "nombre alias": "sistemas-lam-gtm-ecommerce"
+        }, 
+        "adquirente-pagos-individuos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-adquirente-pagos-individuos", 
+            "nombre alias": "adquirente-pagos-individuos"
+        }, 
+        "elektra-comercio-concesionarios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-concesionarios", 
+            "nombre alias": "elektra-comercio-concesionarios"
+        }, 
+        "backoffice-finanzas-sap": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-finanzas-sap", 
+            "nombre alias": "backoffice-finanzas-sap"
+        }, 
+        "ekt-salud-alcance": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-salud-alcance", 
+            "nombre alias": "ekt-salud-alcance"
+        }, 
+        "bienestar-lider-con-estrella": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-bienestar-lider-con-estrella", 
+            "nombre alias": "bienestar-lider-con-estrella"
+        }, 
+        "bo-facturacion-electronica": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-bo-facturacion-electronica", 
+            "nombre alias": "bo-facturacion-electronica"
+        }, 
+        "plataforma-administracion-comercios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-plataforma-administracion-comercios", 
+            "nombre alias": "plataforma-administracion-comercios"
+        }, 
+        "franquicias-bazpagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-franquicias-bazpagos", 
+            "nombre alias": "franquicias-bazpagos"
+        }, 
+        "pagos-retenciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-retenciones", 
+            "nombre alias": "pagos-retenciones"
+        }, 
+        "pagos-tienda-monedas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-tienda-monedas", 
+            "nombre alias": "pagos-tienda-monedas"
+        }, 
+        "pagos-divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-divisas", 
+            "nombre alias": "pagos-divisas"
+        }, 
+        "cyc-transf-credito-seguridad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-transf-credito-seguridad", 
+            "nombre alias": "cyc-transf-credito-seguridad"
+        }, 
+        "transformacion-auditoria-gs": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-transformacion-auditoria-gs", 
+            "nombre alias": "transformacion-auditoria-gs"
+        }, 
+        "operadora-punto": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operadora-punto", 
+            "nombre alias": "operadora-punto"
+        }, 
+        "bo-finanzas-sap-interlocutores-comerciales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-bo-finanzas-sap-interlocutores-comerciales", 
+            "nombre alias": "bo-finanzas-sap-interlocutores-comerciales"
+        }, 
+        "backoffice-talento-gs": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-talento-gs", 
+            "nombre alias": "backoffice-talento-gs"
+        }
+    }, 
+    "prod-int": {
+        "operaciones-baz-centro-soluciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-baz-centro-soluciones", 
+            "nombre alias": "operaciones-baz-centro-soluciones"
+        }, 
+        "elektra-guatemala": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-guatemala", 
+            "nombre alias": "elektra-guatemala"
+        }, 
+        "plataforma-aclaraciones-cloud": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-plataforma-aclaraciones-cloud", 
+            "nombre alias": "plataforma-aclaraciones-cloud"
+        }, 
+        "auditoria-politicas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-auditoria-politicas", 
+            "nombre alias": "auditoria-politicas"
+        }, 
+        "plataforma-administracion-comercios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-plataforma-administracion-comercios", 
+            "nombre alias": "plataforma-administracion-comercios"
+        }, 
+        "botapigee": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-botapigee", 
+            "nombre alias": "botapigee"
+        }, 
+        "mi-negocio-baz-pagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-mi-negocio-baz-pagos", 
+            "nombre alias": "mi-negocio-baz-pagos"
+        }, 
+        "pagos-monedero-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-monedero-digital", 
+            "nombre alias": "pagos-monedero-digital"
+        }, 
+        "caja-caja-central": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-caja-caja-central", 
+            "nombre alias": "caja-caja-central"
+        }, 
+        "backoffice-capital-humano-sap": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-capital-humano-sap", 
+            "nombre alias": "backoffice-capital-humano-sap"
+        }, 
+        "elektra-comercio-bof": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-bof", 
+            "nombre alias": "elektra-comercio-bof"
+        }, 
+        "aws-prod-int": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-aws-prod-int", 
+            "nombre alias": "aws-prod-int"
+        }, 
+        "ekt-dig-comercio-venta-empleado": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-dig-comercio-venta-empleado", 
+            "nombre alias": "ekt-dig-comercio-venta-empleado"
+        }, 
+        "ekt-chambeador": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-chambeador", 
+            "nombre alias": "ekt-chambeador"
+        }, 
+        "socios-comerciales-unnax": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-socios-comerciales-unnax", 
+            "nombre alias": "socios-comerciales-unnax"
+        }, 
+        "operaciones-geografia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-geografia", 
+            "nombre alias": "operaciones-geografia"
+        }, 
+        "seguros-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-seguros-azteca", 
+            "nombre alias": "seguros-azteca"
+        }, 
+        "ekt-mi-negocio": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-mi-negocio", 
+            "nombre alias": "ekt-mi-negocio"
+        }, 
+        "pagos-fisicos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-fisicos", 
+            "nombre alias": "pagos-fisicos"
+        }, 
+        "ekt-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-digital", 
+            "nombre alias": "ekt-digital"
+        }, 
+        "payments-hub-riesgos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-payments-hub-riesgos", 
+            "nombre alias": "payments-hub-riesgos"
+        }, 
+        "creditos-cotizaciones-tasas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-creditos-cotizaciones", 
+            "nombre alias": "creditos-cotizaciones-tasas"
+        }, 
+        "elektra-conectividad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad", 
+            "nombre alias": "elektra-conectividad"
+        }, 
+        "prod-int": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-prod-int", 
+            "nombre alias": "prod-int"
+        }, 
+        "banca-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "bdapis-keystore", 
+            "nombre alias": "banca-digital"
+        }, 
+        "dialogus-honestel": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-dialogus-honestel", 
+            "nombre alias": "dialogus-honestel"
+        }, 
+        "sistemas-lam-cobranza-mapas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-lam-cobranza-mapas", 
+            "nombre alias": "sistemas-lam-cobranza-mapas"
+        }, 
+        "pagos-sa-red-acep-negocios-exp-cliente": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sa-red-acep-negocios-exp-cliente", 
+            "nombre alias": "pagos-sa-red-acep-negocios-exp-cliente"
+        }, 
+        "backoffice-administracion-sap": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-administracion-sap", 
+            "nombre alias": "backoffice-administracion-sap"
+        }, 
+        "operaciones-baz-super-app-ioe": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-baz-super-app-ioe", 
+            "nombre alias": "operaciones-baz-super-app-ioe"
+        }, 
+        "baz-entregas-lam-red-sum": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-baz-entregas-lam-red-sum", 
+            "nombre alias": "baz-entregas-lam-red-sum"
+        }, 
+        "beneficios-socio": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-beneficios-socio", 
+            "nombre alias": "beneficios-socio"
+        }, 
+        "pagos-switch-comercial": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-switch-comercial", 
+            "nombre alias": "pagos-switch-comercial"
+        }, 
+        "elektra-comercio-transformacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-transformacion", 
+            "nombre alias": "elektra-comercio-transformacion"
+        }, 
+        "operaciones-baz-sago": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-baz-sago", 
+            "nombre alias": "operaciones-baz-sago"
+        }, 
+        "tesoreria-casinos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-tesoreria-casinos", 
+            "nombre alias": "tesoreria-casinos"
+        }, 
+        "ekt-atv": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-atv", 
+            "nombre alias": "ekt-atv"
+        }, 
+        "pagos-multimonedas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-multimonedas", 
+            "nombre alias": "pagos-multimonedas"
+        }, 
+        "divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-divisas", 
+            "nombre alias": "divisas"
+        }, 
+        "afore-transformacion-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-transformacion-digital", 
+            "nombre alias": "afore-transformacion-digital"
+        }, 
+        "sipa-negocios-comision": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-negocios-comision", 
+            "nombre alias": "sipa-negocios-comision"
+        }, 
+        "pagos-elektra-vales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-elektra-vales", 
+            "nombre alias": "pagos-elektra-vales"
+        }, 
+        "auditoria-actas-administrativas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-auditoria-actas-administrativas", 
+            "nombre alias": "auditoria-actas-administrativas"
+        }, 
+        "auditoria-telemetria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-auditoria-telemetria", 
+            "nombre alias": "auditoria-telemetria"
+        }, 
+        "carretera-transporte": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-carretera-transporte", 
+            "nombre alias": "carretera-transporte"
+        }, 
+        "elektra-ecommerce-app": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-ecommerce-app", 
+            "nombre alias": "elektra-ecommerce-app"
+        }, 
+        "proyecto-coinpro": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-proyecto-coinpro", 
+            "nombre alias": "proyecto-coinpro"
+        }, 
+        "elektra-comercio-seguridad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-seguridad", 
+            "nombre alias": "elektra-comercio-seguridad"
+        }, 
+        "cyc-comercio-inteligencia-datos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-comercio-inteligencia-datos", 
+            "nombre alias": "cyc-comercio-inteligencia-datos"
+        }, 
+        "adquirente-pagos-individuos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-adquirente-pagos-individuos", 
+            "nombre alias": "adquirente-pagos-individuos"
+        }, 
+        "elektra-comercio-concesionarios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-concesionarios", 
+            "nombre alias": "elektra-comercio-concesionarios"
+        }, 
+        "backoffice-finanzas-sap": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-finanzas-sap", 
+            "nombre alias": "backoffice-finanzas-sap"
+        }, 
+        "ekt-salud-alcance": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-salud-alcance", 
+            "nombre alias": "ekt-salud-alcance"
+        }, 
+        "bo-facturacion-electronica": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-bo-facturacion-electronica", 
+            "nombre alias": "bo-facturacion-electronica"
+        }, 
+        "franquicias-bazpagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-franquicias-bazpagos", 
+            "nombre alias": "franquicias-bazpagos"
+        }, 
+        "pagos-retenciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-retenciones", 
+            "nombre alias": "pagos-retenciones"
+        }, 
+        "pagos-tienda-monedas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-tienda-monedas", 
+            "nombre alias": "pagos-tienda-monedas"
+        }, 
+        "ekt-municipio": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-municipio", 
+            "nombre alias": "ekt-municipio"
+        }, 
+        "pagos-divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-divisas", 
+            "nombre alias": "pagos-divisas"
+        }, 
+        "cyc-transf-credito-seguridad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-transf-credito-seguridad", 
+            "nombre alias": "cyc-transf-credito-seguridad"
+        }, 
+        "transformacion-auditoria-gs": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-transformacion-auditoria-gs", 
+            "nombre alias": "transformacion-auditoria-gs"
+        }, 
+        "operadora-punto": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operadora-punto", 
+            "nombre alias": "operadora-punto"
+        }, 
+        "run-metricas-operativas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-run-metricas-operativas", 
+            "nombre alias": "run-metricas-operativas"
+        }, 
+        "bo-finanzas-sap-interlocutores-comerciales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-bo-finanzas-sap-interlocutores-comerciales", 
+            "nombre alias": "bo-finanzas-sap-interlocutores-comerciales"
+        }, 
+        "backoffice-talento-gs": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-talento-gs", 
+            "nombre alias": "backoffice-talento-gs"
+        }
+    }
+}

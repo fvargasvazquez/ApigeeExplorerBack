@@ -1,0 +1,1551 @@
+{
+    "prod-ext": {
+        "cartografia-mapas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cartografia-mapas", 
+            "nombre alias": "cartografia-mapas"
+        }, 
+        "tesoreria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-tesoreria", 
+            "nombre alias": "tesoreria"
+        }, 
+        "BigDazTibco": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-BigDazTibco", 
+            "nombre alias": "BigDazTibco"
+        }, 
+        "pasarela-pagos-comercios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-comercios", 
+            "nombre alias": "pasarela-pagos-comercios"
+        }, 
+        "captacion-core-bancario": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-core-bancario", 
+            "nombre alias": "captacion-core-bancario"
+        }, 
+        "sipa-remesas-dex-ops": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-remesas-dex-ops", 
+            "nombre alias": "sipa-remesas-dex-ops"
+        }, 
+        "run-modernizacion-pos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-run-modernizacion-pos", 
+            "nombre alias": "run-modernizacion-pos"
+        }, 
+        "pagos-tarjetas-autorizadores": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-tarjetas-autorizadores", 
+            "nombre alias": "pagos-tarjetas-autorizadores"
+        }, 
+        "servicios-digitales-afore": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-servicios-digitales-afore", 
+            "nombre alias": "servicios-digitales-afore"
+        }, 
+        "creditos-cotizaciones-tasas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-creditos-cotizaciones", 
+            "nombre alias": "creditos-cotizaciones-tasas"
+        }, 
+        "pagos-corresponsalias": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-corresponsalias", 
+            "nombre alias": "pagos-corresponsalias"
+        }, 
+        "elektra-conectividad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad", 
+            "nombre alias": "elektra-conectividad"
+        }, 
+        "backoffice-finanzas-egresos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-finanzas-egresos", 
+            "nombre alias": "backoffice-finanzas-egresos"
+        }, 
+        "baz-entrega-conciliaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-baz-entrega-conciliaciones", 
+            "nombre alias": "baz-entrega-conciliaciones"
+        }, 
+        "cyc-credito-cartera-estado-cuenta": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-credito-cartera-estado-cuenta", 
+            "nombre alias": "cyc-credito-cartera-estado-cuenta"
+        }, 
+        "core-adquirente-pagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-adquirente-pagos", 
+            "nombre alias": "core-adquirente-pagos"
+        }, 
+        "corresponsalia-bancaria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-corresponsalia-bancaria", 
+            "nombre alias": "corresponsalia-bancaria"
+        }, 
+        "sipa-dex-gestion-remesas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-gestion-remesas", 
+            "nombre alias": "sipa-dex-gestion-remesas"
+        }, 
+        "corresponsalia-bancaria-arcus": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-corresponsalia-bancaria-arcus", 
+            "nombre alias": "corresponsalia-bancaria-arcus"
+        }, 
+        "procesos-centrales-rentabilidad-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-procesos-centrales-rentabilidad-lam", 
+            "nombre alias": "procesos-centrales-rentabilidad-lam"
+        }, 
+        "orquestador-credito": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-orquestador-credito", 
+            "nombre alias": "orquestador-credito"
+        }, 
+        "pagos-red-aceptacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-red-aceptacion", 
+            "nombre alias": "pagos-red-aceptacion"
+        }, 
+        "tesoreria-casinos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-tesoreria-casinos", 
+            "nombre alias": "tesoreria-casinos"
+        }, 
+        "operaciones-geografia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-geografia", 
+            "nombre alias": "operaciones-geografia"
+        }, 
+        "lam-hnd-identidad-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-hnd-identidad-digital", 
+            "nombre alias": "lam-hnd-identidad-digital"
+        }, 
+        "divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-divisas", 
+            "nombre alias": "divisas"
+        }, 
+        "afore-azteca-sistemas-afiliaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca-sistemas-afiliaciones", 
+            "nombre alias": "afore-azteca-sistemas-afiliaciones"
+        }, 
+        "captacion-sa": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-sa", 
+            "nombre alias": "captacion-sa"
+        }, 
+        "cyc-ic-sistema-regional": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-ic-sistema-regional", 
+            "nombre alias": "cyc-ic-sistema-regional"
+        }, 
+        "compensaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-compensaciones", 
+            "nombre alias": "compensaciones"
+        }, 
+        "cajeros-atm": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cajeros-atm", 
+            "nombre alias": "cajeros-atm"
+        }, 
+        "configuradorPM": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-configuradorPM", 
+            "nombre alias": "configuradorPM"
+        }, 
+        "big-pago-servicios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-pago-servicios", 
+            "nombre alias": "big-pago-servicios"
+        }, 
+        "pagos-sw-socios-comerciales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sw-socios-comerciales", 
+            "nombre alias": "pagos-sw-socios-comerciales"
+        }, 
+        "sipa-dex": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex", 
+            "nombre alias": "sipa-dex"
+        }, 
+        "pasarela-pagos-seguridad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-seguridad", 
+            "nombre alias": "pasarela-pagos-seguridad"
+        }, 
+        "red-unica-pos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-red-unica-pos", 
+            "nombre alias": "red-unica-pos"
+        }, 
+        "pasarela-pagos-tokenizacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-tokenizacion", 
+            "nombre alias": "pasarela-pagos-tokenizacion"
+        }, 
+        "elektra-conectividad-promotoria-tiendas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad-promotoria-tiendas", 
+            "nombre alias": "elektra-conectividad-promotoria-tiendas"
+        }, 
+        "admin-portafolio-riesgos-evaluaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-admin-portafolio-riesgos-evaluaciones", 
+            "nombre alias": "admin-portafolio-riesgos-evaluaciones"
+        }, 
+        "cyc-creditos-cotizaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-creditos-cotizaciones", 
+            "nombre alias": "cyc-creditos-cotizaciones"
+        }, 
+        "sipa-dex-clientes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-clientes", 
+            "nombre alias": "sipa-dex-clientes"
+        }, 
+        "identidad-digital-biometria-dactilar": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-biometria-dactilar", 
+            "nombre alias": "identidad-digital-biometria-dactilar"
+        }, 
+        "red-unica-modernizacion-pos-phygital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-red-unica-modernizacion-pos-phygital", 
+            "nombre alias": "red-unica-modernizacion-pos-phygital"
+        }, 
+        "cyc-zona-ab": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-zona-ab", 
+            "nombre alias": "cyc-zona-ab"
+        }, 
+        "bienestar": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-bienestar", 
+            "nombre alias": "bienestar"
+        }, 
+        "credito-fenix": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-credito-fenix", 
+            "nombre alias": "credito-fenix"
+        }, 
+        "pagos-prevencion-fraudes-sapp": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-prevencion-fraudes-sapp", 
+            "nombre alias": "pagos-prevencion-fraudes-sapp"
+        }, 
+        "digitalizacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-digitalizacion", 
+            "nombre alias": "digitalizacion"
+        }, 
+        "backoffice-capital-humano": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-capital-humano", 
+            "nombre alias": "backoffice-capital-humano"
+        }, 
+        "pagos-remesas-depositos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-remesas-depositos", 
+            "nombre alias": "pagos-remesas-depositos"
+        }, 
+        "cyc-credito-lam-gtm-serc": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-credito-lam-gtm-serc", 
+            "nombre alias": "cyc-credito-lam-gtm-serc"
+        }, 
+        "desarrolloPersonalInformacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-desarrolloPersonalInformacion", 
+            "nombre alias": "desarrolloPersonalInformacion"
+        }, 
+        "sipa-dex-directo-cuenta": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-directo-cuenta", 
+            "nombre alias": "sipa-dex-directo-cuenta"
+        }, 
+        "identidad-digital-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-lam", 
+            "nombre alias": "identidad-digital-lam"
+        }, 
+        "ekt-conectividad-telefonia-gestion-validaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-conectividad-telefonia-gestion-validaciones", 
+            "nombre alias": "ekt-conectividad-telefonia-gestion-validaciones"
+        }, 
+        "finacle-core-bancario": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-finacle-core-bancario", 
+            "nombre alias": "finacle-core-bancario"
+        }, 
+        "captacion-transacciones-comerciales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-transacciones-comerciales", 
+            "nombre alias": "captacion-transacciones-comerciales"
+        }, 
+        "big-credito-nomina-efectivo": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-credito-nomina-efectivo", 
+            "nombre alias": "big-credito-nomina-efectivo"
+        }, 
+        "big-rancher-dc2": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-rancher-dc2", 
+            "nombre alias": "big-rancher-dc2"
+        }, 
+        "sistemas-lam-cobranza-mapas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-lam-cobranza-mapas", 
+            "nombre alias": "sistemas-lam-cobranza-mapas"
+        }, 
+        "cyc-investigacion-cobranza": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-investigacion-cobranza", 
+            "nombre alias": "cyc-investigacion-cobranza"
+        }, 
+        "neto-comercio-electronico": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-neto-comercio-electronico", 
+            "nombre alias": "neto-comercio-electronico"
+        }, 
+        "identidad-digital-zoom": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-zoom", 
+            "nombre alias": "identidad-digital-zoom"
+        }, 
+        "sipa-dex-dispersiones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-dispersiones", 
+            "nombre alias": "sipa-dex-dispersiones"
+        }, 
+        "seguros-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-seguros-azteca", 
+            "nombre alias": "seguros-azteca"
+        }, 
+        "cyc-investigacion-cobranza-lam-gtm-cartografia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-investigacion-cobranza-lam-gtm-cartografia", 
+            "nombre alias": "cyc-investigacion-cobranza-lam-gtm-cartografia"
+        }, 
+        "big-creditos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-creditos", 
+            "nombre alias": "big-creditos"
+        }, 
+        "pagos-servicios-pm": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-servicios-pm", 
+            "nombre alias": "pagos-servicios-pm"
+        }, 
+        "afore-azteca-promotoria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca-promotoria", 
+            "nombre alias": "afore-azteca-promotoria"
+        }, 
+        "identidad-digital-zoom-v9": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-zoom-v9", 
+            "nombre alias": "identidad-digital-zoom-v9"
+        }, 
+        "core-servicios-captacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-servicios-captacion", 
+            "nombre alias": "core-servicios-captacion"
+        }, 
+        "servicios-comunes-token": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-servicios-comunes-token", 
+            "nombre alias": "servicios-comunes-token"
+        }, 
+        "captacion-fenix": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-fenix", 
+            "nombre alias": "captacion-fenix"
+        }, 
+        "presta-prenda": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-presta-prenda", 
+            "nombre alias": "presta-prenda"
+        }, 
+        "ekt-conectividad-telefonia-oper-bloqueos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-conectividad-telefonia-oper-bloqueos", 
+            "nombre alias": "ekt-conectividad-telefonia-oper-bloqueos"
+        }, 
+        "sipa-pagos-dispersiones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-pagos-dispersiones", 
+            "nombre alias": "sipa-pagos-dispersiones"
+        }, 
+        "credito-aca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-credito-aca", 
+            "nombre alias": "credito-aca"
+        }, 
+        "big-personas-morales-daz": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-personas-morales-daz", 
+            "nombre alias": "big-personas-morales-daz"
+        }, 
+        "gobierno-datos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-gobierno-datos", 
+            "nombre alias": "gobierno-datos"
+        }, 
+        "programas-sociales-bienestar-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-programas-sociales-bienestar-azteca", 
+            "nombre alias": "programas-sociales-bienestar-azteca"
+        }, 
+        "elektra-conectividad-telefonia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad-telefonia", 
+            "nombre alias": "elektra-conectividad-telefonia"
+        }, 
+        "identidad-digital-biometria-dactilar-core": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-biometria-dactilar-core", 
+            "nombre alias": "identidad-digital-biometria-dactilar-core"
+        }, 
+        "elektra-core-servicios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-core-servicios", 
+            "nombre alias": "elektra-core-servicios"
+        }, 
+        "investigacion-cobranza": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-investigacion-cobranza", 
+            "nombre alias": "investigacion-cobranza"
+        }, 
+        "investigacion-cobranza-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-investigacion-cobranza-lam", 
+            "nombre alias": "investigacion-cobranza-lam"
+        }, 
+        "afore-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca", 
+            "nombre alias": "afore-azteca"
+        }, 
+        "pagos-switch-comercial-middleware": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-switch-comercial-middleware", 
+            "nombre alias": "pagos-switch-comercial-middleware"
+        }, 
+        "orquestador-rancher": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-orquestador-rancher", 
+            "nombre alias": "orquestador-rancher"
+        }, 
+        "cert-regional": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cert-regional", 
+            "nombre alias": "cert-regional"
+        }, 
+        "pasarela-pagos-transacciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-transacciones", 
+            "nombre alias": "pasarela-pagos-transacciones"
+        }, 
+        "corresponsales-pagos-divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-corresponsales-pagos-divisas", 
+            "nombre alias": "corresponsales-pagos-divisas"
+        }, 
+        "afore-azteca-servicios-digitales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca-servicios-digitales", 
+            "nombre alias": "afore-azteca-servicios-digitales"
+        }, 
+        "cas-inteligencia-datos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cas-inteligencia-datos", 
+            "nombre alias": "cas-inteligencia-datos"
+        }, 
+        "sipa-dex-depositos-pagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-depositos-pagos", 
+            "nombre alias": "sipa-dex-depositos-pagos"
+        }, 
+        "backoffice-facturacion-central": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-facturacion-central", 
+            "nombre alias": "backoffice-facturacion-central"
+        }, 
+        "baz-cerebro": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-baz-cerebro", 
+            "nombre alias": "baz-cerebro"
+        }, 
+        "pagos-divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-divisas", 
+            "nombre alias": "pagos-divisas"
+        }, 
+        "id-digitalizacion-visores": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-id-digitalizacion-visores", 
+            "nombre alias": "id-digitalizacion-visores"
+        }, 
+        "rancher-credito": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-rancher-credito", 
+            "nombre alias": "rancher-credito"
+        }, 
+        "big-creditos-clientes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-creditos-clientes", 
+            "nombre alias": "big-creditos-clientes"
+        }, 
+        "elektra-conectividad-promotoria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad-promotoria", 
+            "nombre alias": "elektra-conectividad-promotoria"
+        }, 
+        "pagos-sw-adquirente-tokenizacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sw-adquirente-tokenizacion", 
+            "nombre alias": "pagos-sw-adquirente-tokenizacion"
+        }, 
+        "procesos-centrales-cyc-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-procesos-centrales-cyc-lam", 
+            "nombre alias": "procesos-centrales-cyc-lam"
+        }, 
+        "middleware-pagos-divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-middleware-pagos-divisas", 
+            "nombre alias": "middleware-pagos-divisas"
+        }, 
+        "pagos-sw-elektra-socios-comerciales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sw-elektra-socios-comerciales", 
+            "nombre alias": "pagos-sw-elektra-socios-comerciales"
+        }, 
+        "identidad-digital-biometria-dactilar-hnd": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-biometria-dactilar-hnd", 
+            "nombre alias": "identidad-digital-biometria-dactilar-hnd"
+        }, 
+        "backoffice-administracion-siscom": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-administracion-siscom", 
+            "nombre alias": "backoffice-administracion-siscom"
+        }, 
+        "sipa-dex-seguridad-envios-inter": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-seguridad-envios-inter", 
+            "nombre alias": "sipa-dex-seguridad-envios-inter"
+        }, 
+        "auditoria-face-analytics": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-auditoria-face-analytics", 
+            "nombre alias": "auditoria-face-analytics"
+        }, 
+        "lam-cobranza-cartografia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-cobranza-cartografia", 
+            "nombre alias": "lam-cobranza-cartografia"
+        }, 
+        "id-dig-lam-biometria-dactilar": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-id-dig-lam-biometria-dactilar", 
+            "nombre alias": "id-dig-lam-biometria-dactilar"
+        }, 
+        "prod-ext": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-prod-ext", 
+            "nombre alias": "prod-ext"
+        }, 
+        "banca-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-banca-digital", 
+            "nombre alias": "banca-digital"
+        }, 
+        "sie": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sie", 
+            "nombre alias": "sie"
+        }, 
+        "sipa-dex-chatbot": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-chatbot", 
+            "nombre alias": "sipa-dex-chatbot"
+        }, 
+        "backoffice-soporte-tecnico": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-soporte-tecnico", 
+            "nombre alias": "backoffice-soporte-tecnico"
+        }, 
+        "marketing-cloud": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-marketing-cloud", 
+            "nombre alias": "marketing-cloud"
+        }, 
+        "banca-digital-pre-prod": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-banca-digital-pre-prod", 
+            "nombre alias": "banca-digital-pre-prod"
+        }, 
+        "elektra-comercio": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio", 
+            "nombre alias": "elektra-comercio"
+        }, 
+        "sistemas-igs": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-igs", 
+            "nombre alias": "sistemas-igs"
+        }, 
+        "sipa-dex-transacciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-transacciones", 
+            "nombre alias": "sipa-dex-transacciones"
+        }, 
+        "identidad-digital-ocr": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-ocr", 
+            "nombre alias": "identidad-digital-ocr"
+        }, 
+        "cyc-investigacion-moviles": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-investigacion-moviles", 
+            "nombre alias": "cyc-investigacion-moviles"
+        }, 
+        "finacle-captacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-finacle-captacion", 
+            "nombre alias": "finacle-captacion"
+        }, 
+        "backoffice-facturacion-interna": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-facturacion-interna", 
+            "nombre alias": "backoffice-facturacion-interna"
+        }, 
+        "big-nomina-captacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-nomina-captacion", 
+            "nombre alias": "big-nomina-captacion"
+        }, 
+        "afore-azteca-admin-cuenta": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca-admin-cuenta", 
+            "nombre alias": "afore-azteca-admin-cuenta"
+        }, 
+        "token-servicios-comunes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-token-servicios-comunes", 
+            "nombre alias": "token-servicios-comunes"
+        }, 
+        "telcel-conectividad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-telcel-conectividad", 
+            "nombre alias": "telcel-conectividad"
+        }, 
+        "monitoreo-aplicativo-odris": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-monitoreo-aplicativo-odris", 
+            "nombre alias": "monitoreo-aplicativo-odris"
+        }, 
+        "programas-sociales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-programas-sociales", 
+            "nombre alias": "programas-sociales"
+        }, 
+        "elektra-comercio-tiendas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-tiendas", 
+            "nombre alias": "elektra-comercio-tiendas"
+        }, 
+        "seguros-azteca-garantia-extendida": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-seguros-azteca-garantia-extendida", 
+            "nombre alias": "seguros-azteca-garantia-extendida"
+        }
+    }, 
+    "prod-int": {
+        "cartografia-mapas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cartografia-mapas", 
+            "nombre alias": "cartografia-mapas"
+        }, 
+        "tibco": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-tibco", 
+            "nombre alias": "tibco"
+        }, 
+        "BigDazTibco": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-BigDazTibco", 
+            "nombre alias": "BigDazTibco"
+        }, 
+        "core-bancario-tibco": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-bancario-tibco", 
+            "nombre alias": "core-bancario-tibco"
+        }, 
+        "pasarela-pagos-comercios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-comercios", 
+            "nombre alias": "pasarela-pagos-comercios"
+        }, 
+        "captacion-core-bancario": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-core-bancario", 
+            "nombre alias": "captacion-core-bancario"
+        }, 
+        "sipa-remesas-dex-ops": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-remesas-dex-ops", 
+            "nombre alias": "sipa-remesas-dex-ops"
+        }, 
+        "run-modernizacion-pos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-run-modernizacion-pos", 
+            "nombre alias": "run-modernizacion-pos"
+        }, 
+        "pagos-tarjetas-autorizadores": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-tarjetas-autorizadores", 
+            "nombre alias": "pagos-tarjetas-autorizadores"
+        }, 
+        "tesoreria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-tesoreria", 
+            "nombre alias": "tesoreria"
+        }, 
+        "servicios-digitales-afore": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-servicios-digitales-afore", 
+            "nombre alias": "servicios-digitales-afore"
+        }, 
+        "core-bank-api-msu-discovery": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-bank-api-msu-discovery", 
+            "nombre alias": "core-bank-api-msu-discovery"
+        }, 
+        "pagos-corresponsalias": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-corresponsalias", 
+            "nombre alias": "pagos-corresponsalias"
+        }, 
+        "elektra-conectividad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad", 
+            "nombre alias": "elektra-conectividad"
+        }, 
+        "servicios-prevencion-fraudes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-servicios-prevencion-fraudes", 
+            "nombre alias": "servicios-prevencion-fraudes"
+        }, 
+        "operaciones-baz-plataforma-aclaraciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-baz-plataforma-aclaraciones", 
+            "nombre alias": "operaciones-baz-plataforma-aclaraciones"
+        }, 
+        "baz-entrega-conciliaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-baz-entrega-conciliaciones", 
+            "nombre alias": "baz-entrega-conciliaciones"
+        }, 
+        "cyc-credito-cartera-estado-cuenta": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-credito-cartera-estado-cuenta", 
+            "nombre alias": "cyc-credito-cartera-estado-cuenta"
+        }, 
+        "core-adquirente-pagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-adquirente-pagos", 
+            "nombre alias": "core-adquirente-pagos"
+        }, 
+        "corresponsalia-bancaria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-corresponsalia-bancaria", 
+            "nombre alias": "corresponsalia-bancaria"
+        }, 
+        "backoffice-facturacion-central": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-facturacion-central", 
+            "nombre alias": "backoffice-facturacion-central"
+        }, 
+        "bienestar-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-bienestar-azteca", 
+            "nombre alias": "bienestar-azteca"
+        }, 
+        "sipa-dex-gestion-remesas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-gestion-remesas", 
+            "nombre alias": "sipa-dex-gestion-remesas"
+        }, 
+        "corresponsalia-bancaria-arcus": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-corresponsalia-bancaria-arcus", 
+            "nombre alias": "corresponsalia-bancaria-arcus"
+        }, 
+        "procesos-centrales-rentabilidad-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-procesos-centrales-rentabilidad-lam", 
+            "nombre alias": "procesos-centrales-rentabilidad-lam"
+        }, 
+        "pagos-red-aceptacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-red-aceptacion", 
+            "nombre alias": "pagos-red-aceptacion"
+        }, 
+        "lam-hnd-identidad-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-hnd-identidad-digital", 
+            "nombre alias": "lam-hnd-identidad-digital"
+        }, 
+        "divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-divisas", 
+            "nombre alias": "divisas"
+        }, 
+        "afore-azteca-sistemas-afiliaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca-sistemas-afiliaciones", 
+            "nombre alias": "afore-azteca-sistemas-afiliaciones"
+        }, 
+        "captacion-sa": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-sa", 
+            "nombre alias": "captacion-sa"
+        }, 
+        "cyc-ic-sistema-regional": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-ic-sistema-regional", 
+            "nombre alias": "cyc-ic-sistema-regional"
+        }, 
+        "orquestador-credito": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-orquestador-credito", 
+            "nombre alias": "orquestador-credito"
+        }, 
+        "configuradorPM": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-configuradorPM", 
+            "nombre alias": "configuradorPM"
+        }, 
+        "pasarela-pagos-gestor": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-gestor", 
+            "nombre alias": "pasarela-pagos-gestor"
+        }, 
+        "big-pago-servicios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-pago-servicios", 
+            "nombre alias": "big-pago-servicios"
+        }, 
+        "lam-gtm-riesgos-crediticios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-gtm-riesgos-crediticios", 
+            "nombre alias": "lam-gtm-riesgos-crediticios"
+        }, 
+        "estado-cuenta-core-bancario": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-estado-cuenta-core-bancario", 
+            "nombre alias": "estado-cuenta-core-bancario"
+        }, 
+        "pagos-sw-socios-comerciales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sw-socios-comerciales", 
+            "nombre alias": "pagos-sw-socios-comerciales"
+        }, 
+        "sipa-dex": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex", 
+            "nombre alias": "sipa-dex"
+        }, 
+        "gobierno-datos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-gobierno-datos", 
+            "nombre alias": "gobierno-datos"
+        }, 
+        "credito-originacion-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-credito-originacion-lam", 
+            "nombre alias": "credito-originacion-lam"
+        }, 
+        "red-unica-pos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-red-unica-pos", 
+            "nombre alias": "red-unica-pos"
+        }, 
+        "pasarela-pagos-tokenizacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-tokenizacion", 
+            "nombre alias": "pasarela-pagos-tokenizacion"
+        }, 
+        "elektra-conectividad-promotoria-tiendas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad-promotoria-tiendas", 
+            "nombre alias": "elektra-conectividad-promotoria-tiendas"
+        }, 
+        "admin-portafolio-riesgos-evaluaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-admin-portafolio-riesgos-evaluaciones", 
+            "nombre alias": "admin-portafolio-riesgos-evaluaciones"
+        }, 
+        "cyc-creditos-cotizaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-creditos-cotizaciones", 
+            "nombre alias": "cyc-creditos-cotizaciones"
+        }, 
+        "sipa-dex-clientes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-clientes", 
+            "nombre alias": "sipa-dex-clientes"
+        }, 
+        "prod-int": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-prod-int", 
+            "nombre alias": "prod-int"
+        }, 
+        "servicios-comunes-aut": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-servicios-comunes-aut", 
+            "nombre alias": "servicios-comunes-aut"
+        }, 
+        "sistemas-lam-hnd-regional-credito": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-lam-hnd-regional-credito", 
+            "nombre alias": "sistemas-lam-hnd-regional-credito"
+        }, 
+        "identidad-digital-biometria-dactilar": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-biometria-dactilar", 
+            "nombre alias": "identidad-digital-biometria-dactilar"
+        }, 
+        "red-unica-modernizacion-pos-phygital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-red-unica-modernizacion-pos-phygital", 
+            "nombre alias": "red-unica-modernizacion-pos-phygital"
+        }, 
+        "cyc-zona-ab": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-zona-ab", 
+            "nombre alias": "cyc-zona-ab"
+        }, 
+        "credito-fenix": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-credito-fenix", 
+            "nombre alias": "credito-fenix"
+        }, 
+        "pagos-digitales-tiempo-aire": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-digitales-tiempo-aire", 
+            "nombre alias": "pagos-digitales-tiempo-aire"
+        }, 
+        "red-propia-gob-integracion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-red-propia-gob-integracion", 
+            "nombre alias": "red-propia-gob-integracion"
+        }, 
+        "digitalizacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-digitalizacion", 
+            "nombre alias": "digitalizacion"
+        }, 
+        "backoffice-capital-humano": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-capital-humano", 
+            "nombre alias": "backoffice-capital-humano"
+        }, 
+        "experiencia-cliente": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-experiencia-cliente", 
+            "nombre alias": "experiencia-cliente"
+        }, 
+        "pagos-remesas-depositos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-remesas-depositos", 
+            "nombre alias": "pagos-remesas-depositos"
+        }, 
+        "cyc-credito-lam-gtm-serc": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-credito-lam-gtm-serc", 
+            "nombre alias": "cyc-credito-lam-gtm-serc"
+        }, 
+        "desarrolloPersonalInformacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-desarrolloPersonalInformacion", 
+            "nombre alias": "desarrolloPersonalInformacion"
+        }, 
+        "identidad-digital-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-lam", 
+            "nombre alias": "identidad-digital-lam"
+        }, 
+        "backoffice-finanzas-egresos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-finanzas-egresos", 
+            "nombre alias": "backoffice-finanzas-egresos"
+        }, 
+        "ekt-conectividad-telefonia-gestion-validaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-conectividad-telefonia-gestion-validaciones", 
+            "nombre alias": "ekt-conectividad-telefonia-gestion-validaciones"
+        }, 
+        "finacle-core-bancario": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-finacle-core-bancario", 
+            "nombre alias": "finacle-core-bancario"
+        }, 
+        "captacion-transacciones-comerciales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-transacciones-comerciales", 
+            "nombre alias": "captacion-transacciones-comerciales"
+        }, 
+        "big-credito-nomina-efectivo": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-credito-nomina-efectivo", 
+            "nombre alias": "big-credito-nomina-efectivo"
+        }, 
+        "big-rancher-dc2": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-rancher-dc2", 
+            "nombre alias": "big-rancher-dc2"
+        }, 
+        "sistemas-lam-cobranza-mapas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-lam-cobranza-mapas", 
+            "nombre alias": "sistemas-lam-cobranza-mapas"
+        }, 
+        "core-bancario-tibco-esb": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-bancario-tibco-esb", 
+            "nombre alias": "core-bancario-tibco-esb"
+        }, 
+        "a360-seguridad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-a360-seguridad", 
+            "nombre alias": "a360-seguridad"
+        }, 
+        "cyc-investigacion-cobranza": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-investigacion-cobranza", 
+            "nombre alias": "cyc-investigacion-cobranza"
+        }, 
+        "socios-comerciales-visa": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-socios-comerciales-visa", 
+            "nombre alias": "socios-comerciales-visa"
+        }, 
+        "identidad-digital-zoom": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-zoom", 
+            "nombre alias": "identidad-digital-zoom"
+        }, 
+        "red-propia-caja-humana-sucursal": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-red-propia-caja-humana-sucursal", 
+            "nombre alias": "red-propia-caja-humana-sucursal"
+        }, 
+        "sipa-dex-dispersiones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-dispersiones", 
+            "nombre alias": "sipa-dex-dispersiones"
+        }, 
+        "seguros-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-seguros-azteca", 
+            "nombre alias": "seguros-azteca"
+        }, 
+        "backoffice-servcontab-contraloria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-servcontab-contraloria", 
+            "nombre alias": "backoffice-servcontab-contraloria"
+        }, 
+        "cyc-investigacion-cobranza-lam-gtm-cartografia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-investigacion-cobranza-lam-gtm-cartografia", 
+            "nombre alias": "cyc-investigacion-cobranza-lam-gtm-cartografia"
+        }, 
+        "big-creditos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-creditos", 
+            "nombre alias": "big-creditos"
+        }, 
+        "central-de-pagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-central-de-pagos", 
+            "nombre alias": "central-de-pagos"
+        }, 
+        "pagos-divisas-multidivisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-divisas-multidivisas", 
+            "nombre alias": "pagos-divisas-multidivisas"
+        }, 
+        "afore-azteca-promotoria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca-promotoria", 
+            "nombre alias": "afore-azteca-promotoria"
+        }, 
+        "identidad-digital-zoom-v9": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-zoom-v9", 
+            "nombre alias": "identidad-digital-zoom-v9"
+        }, 
+        "core-servicios-captacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-servicios-captacion", 
+            "nombre alias": "core-servicios-captacion"
+        }, 
+        "servicios-comunes-token": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-servicios-comunes-token", 
+            "nombre alias": "servicios-comunes-token"
+        }, 
+        "captacion-fenix": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-fenix", 
+            "nombre alias": "captacion-fenix"
+        }, 
+        "presta-prenda": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-presta-prenda", 
+            "nombre alias": "presta-prenda"
+        }, 
+        "sco-neto-notificaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sco-neto-notificaciones", 
+            "nombre alias": "sco-neto-notificaciones"
+        }, 
+        "apps-acl-kio-rke": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-apps-acl-kio-rke", 
+            "nombre alias": "apps-acl-kio-rke"
+        }, 
+        "ekt-conectividad-telefonia-oper-bloqueos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ekt-conectividad-telefonia-oper-bloqueos", 
+            "nombre alias": "ekt-conectividad-telefonia-oper-bloqueos"
+        }, 
+        "sipa-pagos-dispersiones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-pagos-dispersiones", 
+            "nombre alias": "sipa-pagos-dispersiones"
+        }, 
+        "credito-aca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-credito-aca", 
+            "nombre alias": "credito-aca"
+        }, 
+        "lam-gtm-serc": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-gtm-serc", 
+            "nombre alias": "lam-gtm-serc"
+        }, 
+        "backoffice-facturacion-interna-selgs": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-facturacion-interna-selgs", 
+            "nombre alias": "backoffice-facturacion-interna-selgs"
+        }, 
+        "pasarela-pagos-seguridad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-seguridad", 
+            "nombre alias": "pasarela-pagos-seguridad"
+        }, 
+        "big-personas-morales-daz": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-personas-morales-daz", 
+            "nombre alias": "big-personas-morales-daz"
+        }, 
+        "lam-hnd-credito-originacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-hnd-credito-originacion", 
+            "nombre alias": "lam-hnd-credito-originacion"
+        }, 
+        "programas-sociales-bienestar-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-programas-sociales-bienestar-azteca", 
+            "nombre alias": "programas-sociales-bienestar-azteca"
+        }, 
+        "elektra-conectividad-telefonia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad-telefonia", 
+            "nombre alias": "elektra-conectividad-telefonia"
+        }, 
+        "identidad-digital-biometria-dactilar-core": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-biometria-dactilar-core", 
+            "nombre alias": "identidad-digital-biometria-dactilar-core"
+        }, 
+        "saz-core-acsel-e": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-saz-core-acsel-e", 
+            "nombre alias": "saz-core-acsel-e"
+        }, 
+        "elektra-core-servicios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-core-servicios", 
+            "nombre alias": "elektra-core-servicios"
+        }, 
+        "investigacion-cobranza": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-investigacion-cobranza", 
+            "nombre alias": "investigacion-cobranza"
+        }, 
+        "investigacion-cobranza-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-investigacion-cobranza-lam", 
+            "nombre alias": "investigacion-cobranza-lam"
+        }, 
+        "run-ops-geo": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-run-ops-geo", 
+            "nombre alias": "run-ops-geo"
+        }, 
+        "afore-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca", 
+            "nombre alias": "afore-azteca"
+        }, 
+        "operaciones-baz": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-baz", 
+            "nombre alias": "operaciones-baz"
+        }, 
+        "pagos-switch-comercial-middleware": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-switch-comercial-middleware", 
+            "nombre alias": "pagos-switch-comercial-middleware"
+        }, 
+        "orquestador-rancher": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-orquestador-rancher", 
+            "nombre alias": "orquestador-rancher"
+        }, 
+        "cert-regional": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cert-regional", 
+            "nombre alias": "cert-regional"
+        }, 
+        "pasarela-pagos-transacciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pasarela-pagos-transacciones", 
+            "nombre alias": "pasarela-pagos-transacciones"
+        }, 
+        "ppm-domiciliaciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-ppm-domiciliaciones", 
+            "nombre alias": "ppm-domiciliaciones"
+        }, 
+        "corresponsales-pagos-divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-corresponsales-pagos-divisas", 
+            "nombre alias": "corresponsales-pagos-divisas"
+        }, 
+        "core-bank-payments-transactions": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-bank-payments-transactions", 
+            "nombre alias": "core-bank-payments-transactions"
+        }, 
+        "lam-gtm-tarjeta-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-gtm-tarjeta-azteca", 
+            "nombre alias": "lam-gtm-tarjeta-azteca"
+        }, 
+        "afore-azteca-servicios-digitales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca-servicios-digitales", 
+            "nombre alias": "afore-azteca-servicios-digitales"
+        }, 
+        "pagos-servicios-pm": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-servicios-pm", 
+            "nombre alias": "pagos-servicios-pm"
+        }, 
+        "cas-inteligencia-datos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cas-inteligencia-datos", 
+            "nombre alias": "cas-inteligencia-datos"
+        }, 
+        "sipa-dex-depositos-pagos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-depositos-pagos", 
+            "nombre alias": "sipa-dex-depositos-pagos"
+        }, 
+        "creditos-cotizaciones-tasas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-creditos-cotizaciones", 
+            "nombre alias": "creditos-cotizaciones-tasas"
+        }, 
+        "backoffice-facturacion-interna": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-facturacion-interna", 
+            "nombre alias": "backoffice-facturacion-interna"
+        }, 
+        "pagos-trans-spid-azteca": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-trans-spid-azteca", 
+            "nombre alias": "pagos-trans-spid-azteca"
+        }, 
+        "baz-cerebro": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-baz-cerebro", 
+            "nombre alias": "baz-cerebro"
+        }, 
+        "payments-hub": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-payments-hub", 
+            "nombre alias": "payments-hub"
+        }, 
+        "pagos-divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-divisas", 
+            "nombre alias": "pagos-divisas"
+        }, 
+        "id-digitalizacion-visores": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-id-digitalizacion-visores", 
+            "nombre alias": "id-digitalizacion-visores"
+        }, 
+        "rancher-credito": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-rancher-credito", 
+            "nombre alias": "rancher-credito"
+        }, 
+        "big-creditos-clientes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-creditos-clientes", 
+            "nombre alias": "big-creditos-clientes"
+        }, 
+        "elektra-conectividad-promotoria": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad-promotoria", 
+            "nombre alias": "elektra-conectividad-promotoria"
+        }, 
+        "pagos-sw-adquirente-tokenizacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sw-adquirente-tokenizacion", 
+            "nombre alias": "pagos-sw-adquirente-tokenizacion"
+        }, 
+        "sistemas-pld": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-pld", 
+            "nombre alias": "sistemas-pld"
+        }, 
+        "procesos-centrales-cyc-lam": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-procesos-centrales-cyc-lam", 
+            "nombre alias": "procesos-centrales-cyc-lam"
+        }, 
+        "middleware-pagos-divisas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-middleware-pagos-divisas", 
+            "nombre alias": "middleware-pagos-divisas"
+        }, 
+        "pagos-sw-elektra-socios-comerciales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-sw-elektra-socios-comerciales", 
+            "nombre alias": "pagos-sw-elektra-socios-comerciales"
+        }, 
+        "pagos-dig-pgsqr": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-dig-pgsqr", 
+            "nombre alias": "pagos-dig-pgsqr"
+        }, 
+        "identidad-digital-biometria-dactilar-hnd": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-biometria-dactilar-hnd", 
+            "nombre alias": "identidad-digital-biometria-dactilar-hnd"
+        }, 
+        "sipa-pagos-remesas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-pagos-remesas", 
+            "nombre alias": "sipa-pagos-remesas"
+        }, 
+        "captacion-distribuidora-fondos": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-captacion-distribuidora-fondos", 
+            "nombre alias": "captacion-distribuidora-fondos"
+        }, 
+        "backoffice-administracion-siscom": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-administracion-siscom", 
+            "nombre alias": "backoffice-administracion-siscom"
+        }, 
+        "token-factor-autenticacion-servicios-comunes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-token-factor-autenticacion-servicios-comunes", 
+            "nombre alias": "token-factor-autenticacion-servicios-comunes"
+        }, 
+        "sipa-dex-seguridad-envios-inter": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-seguridad-envios-inter", 
+            "nombre alias": "sipa-dex-seguridad-envios-inter"
+        }, 
+        "auditoria-face-analytics": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-auditoria-face-analytics", 
+            "nombre alias": "auditoria-face-analytics"
+        }, 
+        "lam-cobranza-cartografia": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-cobranza-cartografia", 
+            "nombre alias": "lam-cobranza-cartografia"
+        }, 
+        "pagos-servicios": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-pagos-servicios", 
+            "nombre alias": "pagos-servicios"
+        }, 
+        "id-dig-lam-biometria-dactilar": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-id-dig-lam-biometria-dactilar", 
+            "nombre alias": "id-dig-lam-biometria-dactilar"
+        }, 
+        "plataforma-aclaraciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-plataforma-aclaraciones", 
+            "nombre alias": "plataforma-aclaraciones"
+        }, 
+        "lam-hnd-procesos-centrales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-hnd-procesos-centrales", 
+            "nombre alias": "lam-hnd-procesos-centrales"
+        }, 
+        "banca-digital": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-banca-digital", 
+            "nombre alias": "banca-digital"
+        }, 
+        "sie": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sie", 
+            "nombre alias": "sie"
+        }, 
+        "finacle-big": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-finacle-big", 
+            "nombre alias": "finacle-big"
+        }, 
+        "backoffice-soporte-tecnico": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-backoffice-soporte-tecnico", 
+            "nombre alias": "backoffice-soporte-tecnico"
+        }, 
+        "core-bank-adaptador-finacle": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-core-bank-adaptador-finacle", 
+            "nombre alias": "core-bank-adaptador-finacle"
+        }, 
+        "marketing-cloud": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-marketing-cloud", 
+            "nombre alias": "marketing-cloud"
+        }, 
+        "sistemas-lam-hnd-serc": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-lam-hnd-serc", 
+            "nombre alias": "sistemas-lam-hnd-serc"
+        }, 
+        "elektra-conectividad-tiempo-aire": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-conectividad-tiempo-aire", 
+            "nombre alias": "elektra-conectividad-tiempo-aire"
+        }, 
+        "elektra-comercio": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio", 
+            "nombre alias": "elektra-comercio"
+        }, 
+        "sistemas-igs": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sistemas-igs", 
+            "nombre alias": "sistemas-igs"
+        }, 
+        "sipa-dex-transacciones": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-sipa-dex-transacciones", 
+            "nombre alias": "sipa-dex-transacciones"
+        }, 
+        "identidad-digital-ocr": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-identidad-digital-ocr", 
+            "nombre alias": "identidad-digital-ocr"
+        }, 
+        "cyc-moc-msorquestador": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-cyc-moc-msorquestador", 
+            "nombre alias": "cyc-moc-msorquestador"
+        }, 
+        "big-operaciones-swift": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-operaciones-swift", 
+            "nombre alias": "big-operaciones-swift"
+        }, 
+        "finacle-captacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-finacle-captacion", 
+            "nombre alias": "finacle-captacion"
+        }, 
+        "operaciones-prevencion-fraudes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-operaciones-prevencion-fraudes", 
+            "nombre alias": "operaciones-prevencion-fraudes"
+        }, 
+        "CoreBancarioTibco": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-CoreBancarioTibco", 
+            "nombre alias": "CoreBancarioTibco"
+        }, 
+        "fiduciario": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-fiduciario", 
+            "nombre alias": "fiduciario"
+        }, 
+        "big-nomina-captacion": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-big-nomina-captacion", 
+            "nombre alias": "big-nomina-captacion"
+        }, 
+        "lam-hnd-cyc-brms": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-lam-hnd-cyc-brms", 
+            "nombre alias": "lam-hnd-cyc-brms"
+        }, 
+        "afore-azteca-admin-cuenta": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-afore-azteca-admin-cuenta", 
+            "nombre alias": "afore-azteca-admin-cuenta"
+        }, 
+        "token-servicios-comunes": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-token-servicios-comunes", 
+            "nombre alias": "token-servicios-comunes"
+        }, 
+        "telcel-conectividad": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-telcel-conectividad", 
+            "nombre alias": "telcel-conectividad"
+        }, 
+        "programas-sociales": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-programas-sociales", 
+            "nombre alias": "programas-sociales"
+        }, 
+        "elektra-comercio-tiendas": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-elektra-comercio-tiendas", 
+            "nombre alias": "elektra-comercio-tiendas"
+        }, 
+        "seguros-azteca-garantia-extendida": {
+            "tipo recurso": "KeyStore", 
+            "ks referencia": "ks-seguros-azteca-garantia-extendida", 
+            "nombre alias": "seguros-azteca-garantia-extendida"
+        }
+    }
+}

@@ -37,6 +37,7 @@ namespace ApigeeExplorer.ApiV2.Services.SearchServices
                     {
                         DeveloperName = developer != null ? $"{developer.Nombre} {developer.Apellidos}" : "",
                         Username = app.Username,
+                        Status = app.Status,
                         AppProducts = products
                     };
 

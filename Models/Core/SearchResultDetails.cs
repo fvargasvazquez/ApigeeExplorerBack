@@ -16,6 +16,7 @@ namespace ApigeeExplorer.ApiV2.Models.Core
         // App Details
         public string? DeveloperName { get; set; }
         public string? Username { get; set; }
+        public string? Status { get; set; }
         public List<string>? AppProducts { get; set; }
 
         // Product Details

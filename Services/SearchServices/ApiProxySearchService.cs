@@ -151,11 +151,11 @@ namespace ApigeeExplorer.ApiV2.Services.SearchServices
             var flowName = flow.Name.ToLower();
             var flowPath = flow.Path.ToLower();
 
-            // Exclude common system flows
+            // Exclude common system flows (removed ping and status to allow validation in frontend)
             var excludePatterns = new[]
             {
-                "ping", "optionspreflight", "not-found", "notfound", 
-                "options", "/ping", "/status", "health", "healthcheck"
+                "optionspreflight", "not-found", "notfound", 
+                "options", "health", "healthcheck"
             };
 
             return !excludePatterns.Any(pattern => 

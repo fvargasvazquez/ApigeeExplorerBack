@@ -111,6 +111,7 @@ namespace ApigeeExplorer.ApiV2.Services
                     var details = new SearchResultDetails
                     {
                         Host = server.Host ?? "N/A",
+                        Port = server.Puerto,
                         Environments = environments,
                         AssociatedApis = associatedApis,
                         ApisByEnvironment = apisByEnvironment
